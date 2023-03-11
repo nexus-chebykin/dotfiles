@@ -1,0 +1,2 @@
+export FFMPEG_PATH="/usr/bin/ffmpeg"
+. "$HOME/.cargo/env"
